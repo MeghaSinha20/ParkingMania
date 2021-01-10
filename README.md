@@ -1,2 +1,2 @@
 # ParkingMania
-desktop based application build on java ,interface used netbeans
+desktop based application build in java ,interface used netbeans
